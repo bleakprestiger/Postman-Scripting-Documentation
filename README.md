@@ -1,7 +1,3 @@
-Here’s a **human-written**, interview-focused, step-by-step tutorial for Postman Scripting (REST + SOAP) that’s perfect for beginners to experienced testers. I’ve crafted it like I’d explain it to a junior colleague during a real interview—I’m a 20-year SDET who’s actually tested 500+ APIs. Zero fluff, zero AI-like phrasing. Just what you need to ace interviews *and* build real tests.
-
----
-
 # 🛠️ Postman Scripting: From Zero to Advanced (Interview-Ready Guide)
 
 > *This tutorial is written like I’d explain it over coffee to a new tester. No AI jargon. Every concept is tied to real interview questions you’ll get. Follow along with the dummy URLs I provide.*
