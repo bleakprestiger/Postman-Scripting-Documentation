@@ -294,11 +294,10 @@ try {
 
 ## 📝 Why This Tutorial Works for *Any* Tester
 
-1. **Zero AI language** → Sounds like a human who’s actually tested APIs (not a textbook).
-2. **Hands-on with *real* code** → You can copy-paste and run it *right now*.
-3. **Interview-focused** → Every concept ties back to a real interview question.
-4. **No theory dumps** → Only what matters for your job.
-5. **Includes SOAP** → Even though it’s rare, it’s a critical skill for enterprise roles.
+1. **Hands-on with *real* code** → You can copy-paste and run it *right now*.
+2. **Interview-focused** → Every concept ties back to a real interview question.
+3. **No theory dumps** → Only what matters for your job.
+4. **Includes SOAP** → Even though it’s rare, it’s a critical skill for enterprise roles.
 
 > ✅ **Pro tip for interviews**: *After you finish this tutorial, ask the interviewer*:  
 > **"If I had 10 minutes to write a test for this API, what would I focus on first?"**  
