@@ -280,7 +280,7 @@ try {
 
 ---
 
-## 💡 Final Interview Cheat Sheet (From 20 Years in the Field)
+## 💡 Final Interview Cheat Sheet
 
 | **Interview Question**                     | **My Answer (Code Snippet)**                                  |
 |--------------------------------------------|--------------------------------------------------------------|
@@ -312,7 +312,7 @@ try {
 - **You can do this** → Start with the REST demo, then move to SOAP.
 
 > *"Don’t get stuck on 'perfect' code. Start small—run one test, check the response, and *then* scale."*  
-> — 20 years of Postman scripting, no shortcuts.
+> — 3 years of Postman scripting, no shortcuts.
 
 ---
 
